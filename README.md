@@ -105,9 +105,6 @@ Each model is evaluated on the same dataset with SMOTE balancing applied, ensuri
 ## Author
 Boyaf3
 
-## License
-[Add your license information here]
-
 ## References
 - NFStream Documentation
 - scikit-learn Machine Learning Library
